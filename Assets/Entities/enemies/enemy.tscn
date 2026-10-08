@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://28bob3s6gfg6"]
+
+[ext_resource type="Texture2D" uid="uid://cxcu5uyex6sxy" path="res://Assets/spacepixels_ships_stroked/space_pixels_ships_stroked/ship_red_stroked.png" id="1_3ld2k"]
+
+[node name="Enemy" type="Node2D" unique_id=1575713652]
+
+[node name="ShipSprite" type="Sprite2D" parent="." unique_id=982752748]
+position = Vector2(-1.9073486e-06, -1.9073486e-06)
+rotation = 3.1415927
+texture = ExtResource("1_3ld2k")
